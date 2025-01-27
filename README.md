@@ -1,0 +1,1 @@
+# Prediction-of-soil-fertility-using-Naive-Bayes-Algorithms
